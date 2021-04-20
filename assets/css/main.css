@@ -4114,3 +4114,12 @@ input, select, textarea {
     color: white;
     background: #272833;
   }
+
+	i {
+		font-size: 80px;
+	}
+
+	.gtr-50 {
+		display: flex;
+		justify-content: center;
+	}
